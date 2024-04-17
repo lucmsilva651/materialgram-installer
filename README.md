@@ -4,7 +4,8 @@
 Materialgram Installer is a utility designed to simplify the installation process of Materialgram, an alternative client for Telegram. This README provides instructions for using the installer and credits to the original Materialgram repository on GitHub.
 
 ## Installation Instructions:
-1. **Run Installer:** Double-click the downloaded installer file (`materialgram-installer.exe`) to initiate the installation process.
+1. **Download The Installer Files**: [Click here](https://github.com/lucmsilva651/materialgram-installer/archive/refs/heads/main.zip) to download the installer. Once downloaded, extract the installer on a folder of your choice.
+1. **Run Installer:** Double-click the downloaded installer file (`materialgram-installer.cmd`) to initiate the installation process.
 2. **Follow Prompts:** Follow the on-screen prompts (if there it shows any) to complete the installation. The installer will guide you through the necessary steps.
 
 ## Functionality:
