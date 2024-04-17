@@ -19,7 +19,7 @@ Materialgram Installer automates the following tasks:
 Simply run the installer. Materialgram Installer will handle the installation process seamlessly, ensuring that you have the latest version of Materialgram installed and ready to use.
 
 ## Credits:
-Materialgram Installer relies on the official Materialgram repository hosted on GitHub for distribution and version management. We extend our appreciation to the developers and contributors for their dedication to Materialgram.
+Materialgram Installer relies on the official Materialgram repository hosted on GitHub for distribution and version management. I extend my appreciation to the developers and contributors for their dedication to Materialgram.
 
 For more information and updates, please visit the official Materialgram repository at [github.com/kukuruzka165/materialgram](https://github.com/kukuruzka165/materialgram).
 
